@@ -28,7 +28,7 @@ const Joaquín  = {
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some of my languages and tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -50,14 +50,14 @@ const Joaquín  = {
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+<a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> 
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> 
 </a>
 <a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
