@@ -1,5 +1,3 @@
-# github-profile
-My github profile
 
 <h1 align="center">Hi 👋, I'm Joaquín Angelino!</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
