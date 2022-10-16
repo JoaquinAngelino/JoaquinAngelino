@@ -60,3 +60,8 @@ const Joaquín  = {
 <a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
+
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoaquinAngelino&show_icons=true&theme=dark" alt="PabloElectricista" /> 
+</p>
+<br />
