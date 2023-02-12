@@ -10,7 +10,7 @@ const Joaquín  = {
   projects: ['Bgoode', 'Phones E-commerce'],
 }
 ```
-- 🌱 I’m currently learning/developing a **React-native** & **TypeScript** proyect
+
 
 - 💬 Ask me about **Web Development**
 
