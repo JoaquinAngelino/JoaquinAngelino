@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Carbonbase**
 
-- 🌱 I’m currently learning **.Net framework, Cyber Security, Linux servers**
-
 - 💬 Ask me about **React, Node, JavaScript, Typescript, MongoDB, PostgreSQL, ect.**
 
 - 📫 How to reach me **joacoangelino@gmail.com**
